@@ -56,11 +56,5 @@ The project demonstrates **why optimization techniques are essential** for stabl
 
 ---
 
-## 🏗️ System Architecture
-
-### 🔹 High-Level Pipeline
-
-
-::contentReference[oaicite:0]{index=0}
 
 
